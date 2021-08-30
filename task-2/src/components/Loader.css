@@ -1,0 +1,12 @@
+.loader {
+    border: 20px solid yellowgreen;
+    border-top: 20px solid #E4BAD4;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    animation: spin 2s linear infinite;
+    transform: translate(-10%, -10%);
+    position: absolute;
+    left: 50%;
+    top: 40%;
+}
